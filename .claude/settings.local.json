@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Workflow(deep-research)",
+      "mcp__google-web-search__google_web_search",
+      "mcp__web-search__full-web-search",
+      "mcp__yfmcp__yfinance_get_ticker_info",
+      "mcp__web-search__get-web-search-summaries",
+      "Bash(python run_e2e_test.py)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
